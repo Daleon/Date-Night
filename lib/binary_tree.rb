@@ -1,6 +1,5 @@
 require_relative 'node'
 require_relative 'score_movie'
-require 'pry'
 
 class BinarySearchTree
   attr_accessor :root
