@@ -3,8 +3,6 @@ require_relative '../lib/score_movie'
 require_relative '../lib/node'
 require 'minitest/autorun'
 require 'minitest/pride'
-require 'pry'
-
 
 class NodeTest < Minitest::Test
   def test_tree_object_exists
